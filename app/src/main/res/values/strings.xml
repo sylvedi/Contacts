@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="action_settings">Settings</string>
+    <string name="Personal">Personal</string>
+    <string name="Business">Business</string>
+    <string name="Chnage">Change</string>
+    <string name="Name">Name</string>
+    <string name="Phone">Phone</string>
+    <string name="Email">Email</string>
+    <string name="Street">Street</string>
+    <string name="City">City</string>
+    <string name="State">State</string>
+    <string name="Zip">Zip</string>
+    <string name="Note">Note</string>
+    <string name="Website">Website</string>
+    <string name="Company">Company</string>
+    <string name="Addnewcontact">Add new contact</string>
+    <string name="numberNiew">Number View</string>
+    <string name="editcontact">Edit contact</string>
+
+
+</resources>
